@@ -6,13 +6,13 @@
 #    By: sbouheni <sbouheni@student.42mulhouse.fr>  +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/11/22 09:27:41 by sbouheni          #+#    #+#              #
-#    Updated: 2023/11/25 13:18:47 by sbouheni         ###   ########.fr        #
+#    Updated: 2023/11/30 11:16:48 by sbouheni         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME				=	loser
 
-CXX					=	g++
+CXX					=	c++
 CXXFLAGS			=	-Wall -Wextra -Werror -std=c++98 -g
 
 SRCS				=	source/main.cpp										\

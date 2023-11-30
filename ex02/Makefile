@@ -6,13 +6,13 @@
 #    By: sbouheni <sbouheni@student.42mulhouse.fr>  +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/11/19 12:28:35 by sbouheni          #+#    #+#              #
-#    Updated: 2023/11/19 12:31:14 by sbouheni         ###   ########.fr        #
+#    Updated: 2023/11/30 11:16:48 by sbouheni         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME				= brain
 
-CXX					= g++
+CXX					= c++
 CXXFLAGS			= -Wall -Wextra -Werror -std=c++98 -g
 
 SRCS				= main.cpp

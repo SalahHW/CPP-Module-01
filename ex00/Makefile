@@ -6,13 +6,13 @@
 #    By: sbouheni <sbouheni@student.42mulhouse.fr>  +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/11/18 15:01:06 by sbouheni          #+#    #+#              #
-#    Updated: 2023/11/18 15:08:25 by sbouheni         ###   ########.fr        #
+#    Updated: 2023/11/30 11:16:48 by sbouheni         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME			=	zombie
 
-CXX				=	g++
+CXX				=	c++
 CXXFLAGS		=	-Wall -Wextra -Werror -std=c++98 -g
 
 SRCS			=	source/main.cpp											\

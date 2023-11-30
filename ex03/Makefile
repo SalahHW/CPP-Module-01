@@ -6,13 +6,13 @@
 #    By: sbouheni <sbouheni@student.42mulhouse.fr>  +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/11/20 12:16:15 by sbouheni          #+#    #+#              #
-#    Updated: 2023/11/20 12:25:52 by sbouheni         ###   ########.fr        #
+#    Updated: 2023/11/30 11:16:48 by sbouheni         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME				=	violence
 
-CXX					=	g++
+CXX					=	c++
 CXXFLAGS			= 	-Wall -Wextra -Werror -std=c++98 -g -fsanitize=address
 
 SRCS				=	source/main.cpp										\
